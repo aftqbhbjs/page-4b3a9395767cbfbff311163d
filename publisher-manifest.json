@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f1212459574e908e246b54c5",
+  "owner": "aftqbhbjs",
+  "repo": "page-4b3a9395767cbfbff311163d",
+  "title": "火箭云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b3a9395767cbfbff311163d",
+      "a": "火箭云",
+      "b": "机场官网线路发布页",
+      "entity": "火箭云",
+      "brand": "火箭云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "59dca4419bb9945a4882e4a3bef322895afe0f96f590ea7be950204d51b76c72",
+      "content": {
+        "primary_entity": "火箭云",
+        "keyword1": "火箭云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，手机优先轻量客户端，桌面端可选功能更全的版本。",
+          "AI_CLIENTS_TITLE": "客户端按设备挑选",
+          "AI_CLOSING_TEXT": "三档套餐在流量、设备数和节点类型上拉开差距，按需选择即可开始配置。",
+          "AI_CLOSING_TITLE": "选合适套餐，导入订阅即用",
+          "AI_DESCRIPTION": "，套餐按流量与设备数分档，基础版每月100GB适合3台设备以内，旗舰版每月300GB适合5台设备并带IPLC专线，团队版每月1000GB可支持20台设备同时在线。选套餐先看设备数量与月流量，再决定月付或年付，年付在长期使用上更省心。",
+          "AI_FAQ_ANSWER_1": "基础版适合3台设备以内的个人日常使用，每月100GB流量，解锁基础流媒体。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，含IPLC专线，适合对游戏延迟敏感或需要全节点流媒体解锁的用户。",
+          "AI_FAQ_ANSWER_3": "全年流量需求较大时，团队版每月1000GB与20台设备数更匹配，还支持企业定制路由。",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，按所用客户端文档导入配置即可，不同客户端的导入方式略有差异。",
+          "AI_FAQ_ANSWER_5": "月付灵活，年付价格更低，基础版年付150元、旗舰版350元、团队版850元，长期使用可优先考虑年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么设备数量的用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版的IPLC专线有什么用？",
+          "AI_FAQ_QUESTION_3": "团队版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_4": "购买后怎么导入订阅？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和节点类型三个维度区分三档套餐，方便对号入座。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，均标注可解锁的流媒体范围。",
+          "AI_FEATURE_TEXT_2": "手机与桌面客户端按需选择，团队版支持20台设备，适合多人共用或办公环境。",
+          "AI_FEATURE_TEXT_3": "月付与年付周期灵活，年付价格更低；旗舰版与团队版分别提供IPLC专线和VIP专属节点。",
+          "AI_FEATURE_TITLE_1": "按流量与设备数分档",
+          "AI_FEATURE_TITLE_2": "多端客户端适配",
+          "AI_FEATURE_TITLE_3": "订阅周期与节点分级",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "火箭云提供基础版、旗舰版与团队版三档套餐，覆盖从个人多设备到团队办公的流量与设备需求，按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "年付价格更省",
+          "AI_HIGHLIGHT_3": "多端客户端可选",
+          "AI_PLANS_INTRO": "基础版每月100GB适合3台设备，旗舰版每月300GB适合5台设备并含IPLC专线，团队版每月1000GB支持20台设备，年付分别为150元、350元与850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版、团队版之间选择一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与在线数量，对照套餐中的设备上限与客户端适配说明。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依照所选客户端文档完成导入与节点选择。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "火箭云套餐与客户端"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "im82.cn",
+    "host": "im82.cn"
+  },
+  "file_hashes": {
+    "index.html": "681ee4fd31d5d357823f898c7cd0c2d2714171c6e2df3f8e7530528f8fddb758",
+    "sitemap.xml": "debe7b6bbd0b44217edd79f862142bfeb2328651ae4e734eaf62fa2940e1bd30",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "da120253c2639460f7e0bbe31029e013fea63e833ec0214dcf004275743daf3f",
+    "robots.txt": "5ba538faf178d55b647b6806be6bff151fccc2028139530658e3daadf75094f5",
+    "e21a4e2eb9830b5c34c1a9c05a060575.txt": "dfe7538daac6f60aa02016e0e59001181f879f0ce46d5c0e3016f90e35d0483b"
+  },
+  "revision": "138edf4b2c739a3306cb5e59626b833ad02c42d198378c6d645f885ffa49af88"
+}
